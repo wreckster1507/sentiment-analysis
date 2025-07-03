@@ -224,9 +224,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- 📧 Email: support@sentimentai.com
-- 💬 Discord: [Join our community](https://discord.gg/sentimentai)
-- 📖 Documentation: [docs.sentimentai.com](https://docs.sentimentai.com)
+- 📧 Email: sarthakaitha1507@gmail.com
+
 
 ## 🙏 Acknowledgments
 
